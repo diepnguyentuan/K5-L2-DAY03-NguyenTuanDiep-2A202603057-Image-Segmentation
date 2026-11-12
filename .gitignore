@@ -4,6 +4,5 @@ __pycache__/
 .ipynb_checkpoints/
 data/**/groundtruth/
 data/_cache/
-/*.zip
 .sam_assistant/
 report/missing_visuals/
